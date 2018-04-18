@@ -159,6 +159,7 @@ namespace DemoEntityFramework
                             Edit_Column();
                         }
                     }
+                    //đây là thay đổi đầu tiên
             }
             catch (Exception ex)
             {
