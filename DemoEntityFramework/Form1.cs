@@ -146,7 +146,6 @@ namespace DemoEntityFramework
         {
             try
             {
-               
                     if (MessageBox.Show("bạn có thật sự muốn xóa ","thông báo",MessageBoxButtons.YesNo,MessageBoxIcon.Information) == DialogResult.Yes)
                     {
                         if (MessageBox.Show("bạn có thật sự muốn xóa ", "thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Information) == DialogResult.Yes)
